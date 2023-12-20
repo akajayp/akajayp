@@ -1,4 +1,3 @@
 - Hi, I’m @akajayp
-- Folow my OSCP Journey
+- Folow my OSCP Journey @ Profile/Projects/TJNull List
 - Reach me on LinkedIn
-- Follow @ Profile/Projects/TJNull List
