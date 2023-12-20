@@ -1,4 +1,4 @@
 - Hi, I’m @akajayp
 - Currently on OSCP Journey
-- How to reach me LinkedIn
+- Reach me on LinkedIn
 - Follow @ Profile/Projects/TJNull List
