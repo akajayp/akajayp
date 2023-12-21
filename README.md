@@ -1,4 +1,4 @@
 - Hi, I’m @akajayp
 - Follow my OSCP Journey
 - Reach me on <a href="https://linkedin.com/in/johnnieperez">LinkedIn</a>
-- Follow @ Profile/Projects/TJNull List
+- Follow @ <a href="https://github.com/users/akajayp/projects/1/views/1">Profile/Projects/TJNull List</a>
